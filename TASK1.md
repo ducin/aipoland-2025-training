@@ -1,0 +1,4 @@
+- new command: /assistant <NAME>
+- provide current assistant in session (and session json file)
+- provide current session assistant name in `/session list`
+- in UI unhardcode assistant name
